@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID":"LG3A8WCNSL.ru.carl.drive.app",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
