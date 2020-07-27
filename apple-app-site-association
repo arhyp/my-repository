@@ -5,6 +5,26 @@
             {
                 "appID":"LG3A8WCNSL.ru.carl.drive.app",
                 "paths": ["*"]
+            }, 
+            {
+                "appID":"ru.carl.drive.app",
+                "paths": ["*"]
+            },
+            {
+                "appID":"LG3A8WCNSL.LG3A8WCNSL.ru.carl.drive.app",
+                "paths": ["*"]
+            }, 
+            {
+                "appID":"LG3A8WCNSL.ru.carl.drive.app",
+                "paths": ["/*"]
+            }, 
+            {
+                "appID":"ru.carl.drive.app",
+                "paths": ["/*"]
+            },
+            {
+                "appID":"LG3A8WCNSL.LG3A8WCNSL.ru.carl.drive.app",
+                "paths": ["/*"]
             }
         ]
     }
